@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Marry X-MAS</title>
+</head>
+<body style="background-color: seagreen;">
+  <h1 style="color: red; text-align: center;">Marry X-MAS</h1>
+  <div style="text-align: center; width: 200px; margin: auto;">
+    <h2 style="color: purple">My Christmas tree</h2>
+    <img src="./tree.png" style="width: 200px;">
+    <p>Marry Christmas Everybody!!!</p>
+    <p style="text-align: right; color: blue;">Your Sophe</p>
+  </div>
+</body>
+</html>
