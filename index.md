@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Marry X-MAS</title>
 </head>
 <body style="background-color: seagreen;">
   <h1 style="color: red; text-align: center;">Marry X-MAS</h1>
