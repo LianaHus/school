@@ -7,7 +7,7 @@
     <h2 style="color: purple">My Christmas tree</h2>
     <img src="./tree.png" style="width: 200px;">
     <p>Marry Christmas Everybody!!!</p>
-    <p style="text-align: right; color: blue;">Your Sophe</p>
+    <p style="text-align: right; color: blue;">Your Sophie</p>
   </div>
 </body>
 </html>
